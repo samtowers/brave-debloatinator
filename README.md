@@ -5,10 +5,19 @@ Removes unnecessary bloat from Brave Browser.
 
 # Install (Linux)
 
+
 Run
 ```
 bash <(curl -s https://raw.githubusercontent.com/samtowers/brave-debloatinator/main/brave-bullshitinator-linux-install.sh)
 ```
+
+It creates a file `policies.json` into:
+
+```
+/etc/brave/policies/managed
+```
+
+
 
 # What is disabled?
 

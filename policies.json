@@ -3,8 +3,11 @@
     "BraveWalletDisabled": true,
     "BraveVPNDisabled": true,
     "BraveAIChatEnabled": false,
-    "NewTabPageLocation": 1,
+    "NewTabPageLocation": "",
     "TorDisabled": true,
     "PasswordManagerEnabled": false,
+    "BraveNewsDisabled": false,
+    "BraveTalkDisabled": false,
+    "ShowFullUrlsInToolbar": true,
     "DnsOverHttpsMode": "automatic"
 }
