@@ -1,0 +1,36 @@
+Windows Registry Editor Version 5.00
+; brave version: 127.1.69.73
+
+[HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave]
+"BraveRewardsDisabled"=dword:00000001
+"BraveWalletDisabled"=dword:00000001
+"BraveVPNDisabled"=dword:00000001
+"BraveAIChatEnabled"=dword:00000000
+"PasswordManagerEnabled"=dword:00000000
+"TorDisabled"=dword:00000001
+"BraveNewsDisabled"=dword:00000000
+"BraveTalkDisabled"=dword:00000000
+"DefaultSearchProviderEnabled"=dword:00000001
+"DefaultSearchProviderName"="Google"
+"DefaultSearchProviderKeyword"="google.com"
+"DefaultSearchProviderSearchURL"="https://www.google.com/search?q={searchTerms}"
+"DefaultSearchProviderIconURL"="https://www.google.com/favicon.ico"
+"DefaultSearchProviderEncodings"="UTF-8"
+"RestoreOnStartup"=dword:00000005
+"SearchSuggestEnabled"=dword:00000000
+"NewTabPageLocation"=""
+"ShowFullUrlsInToolbar"=dword:00000001
+"BraveShieldsDefaultsSetting"=dword:00000000
+"DnsOverHttpsMode"="automatic"
+
+[HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave\BraveShieldsDisabledForUrls]
+"1"="*"
+
+[HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave\ExtensionInstallForcelist]
+"1"="cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx"
+"2"="dbepggeogbaibhgnhhndojpepiihcmeb;https://clients2.google.com/service/update2/crx"
+"3"="dkoadhojigekhckndaehenfbhcgfeepl;https://clients2.google.com/service/update2/crx"
+"4"="edibdbjcniadpccecjdfdjjppcpchdlm;https://clients2.google.com/service/update2/crx"
+"5"="dneaehbmnbhcippjikoajpoabadpodje;https://clients2.google.com/service/update2/crx"
+"6"="clngdbkpkpeebahjckkjfobafhncgmne;https://clients2.google.com/service/update2/crx"
+"7"="jinjaccalgkegednnccohejagnlnfdag;https://clients2.google.com/service/update2/crx"
