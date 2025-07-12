@@ -8,6 +8,29 @@
     "PasswordManagerEnabled": false,
     "BraveNewsDisabled": false,
     "BraveTalkDisabled": false,
+    "DefaultSearchProviderEnabled": true,
+    "DefaultSearchProviderName": "Google",
+    "DefaultSearchProviderKeyword": "google.com",
+    "DefaultSearchProviderSearchURL": "https://www.google.com/search?q={searchTerms}",
+    "DefaultSearchProviderSuggestURL": "https://www.google.com/complete/search?output=chrome&q={searchTerms}",
+    "DefaultSearchProviderIconURL": "https://www.google.com/favicon.ico",
+    "DefaultSearchProviderEncodings": [
+        "UTF-8"
+    ],
+    "RestoreOnStartup": 5,
+    "BraveShieldsDisabledForUrls": [
+        "*"
+    ],
+    "BraveShieldsDefaultsSetting": 0,
     "ShowFullUrlsInToolbar": true,
+    "ExtensionInstallForcelist": [
+        "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",
+        "dbepggeogbaibhgnhhndojpepiihcmeb;https://clients2.google.com/service/update2/crx",
+        "dkoadhojigekhckndaehenfbhcgfeepl;https://clients2.google.com/service/update2/crx",
+        "edibdbjcniadpccecjdfdjjppcpchdlm;https://clients2.google.com/service/update2/crx",
+        "dneaehbmnbhcippjikoajpoabadpodje;https://clients2.google.com/service/update2/crx",
+        "clngdbkpkpeebahjckkjfobafhncgmne;https://clients2.google.com/service/update2/crx",
+        "jinjaccalgkegednnccohejagnlnfdag;https://clients2.google.com/service/update2/crx"
+    ],
     "DnsOverHttpsMode": "automatic"
 }
