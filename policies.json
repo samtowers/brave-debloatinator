@@ -12,12 +12,12 @@
     "DefaultSearchProviderName": "Google",
     "DefaultSearchProviderKeyword": "google.com",
     "DefaultSearchProviderSearchURL": "https://www.google.com/search?q={searchTerms}",
-    "DefaultSearchProviderSuggestURL": "https://www.google.com/complete/search?output=chrome&q={searchTerms}",
     "DefaultSearchProviderIconURL": "https://www.google.com/favicon.ico",
     "DefaultSearchProviderEncodings": [
         "UTF-8"
     ],
     "RestoreOnStartup": 5,
+    "SearchSuggestEnabled": false,
     "BraveShieldsDisabledForUrls": [
         "*"
     ],
