@@ -3,6 +3,13 @@ Removes unnecessary bloat from Brave Browser.
 
 -------
 
+# Install (Linux)
+
+Run
+```
+bash <(curl -s https://raw.githubusercontent.com/samtowers/brave-debloatinator/main/brave-bullshitinator-linux-install.sh)
+``
+
 # What is disabled?
 
 The following items are disabled by appling brave debullshitinator:
