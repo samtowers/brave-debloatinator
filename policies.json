@@ -1,7 +1,7 @@
 {
     "BraveRewardsDisabled": true,
     "BraveWalletDisabled": true,
-    "BraveVPNDisabled": 1,
+    "BraveVPNDisabled": true,
     "BraveAIChatEnabled": false,
     "NewTabPageLocation": "https://search.brave.com",
     "TorDisabled": true,
