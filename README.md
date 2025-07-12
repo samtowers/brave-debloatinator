@@ -8,7 +8,7 @@ Removes unnecessary bloat from Brave Browser.
 Run
 ```
 bash <(curl -s https://raw.githubusercontent.com/samtowers/brave-debloatinator/main/brave-bullshitinator-linux-install.sh)
-``
+```
 
 # What is disabled?
 
